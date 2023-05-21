@@ -1,3 +1,3 @@
 Pythagoras tree fractal in Java.
 
-![Level Editor](img/pti.jpg)
+![Pythagoras tree](img/pti.jpg)
